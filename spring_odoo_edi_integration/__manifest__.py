@@ -4,7 +4,7 @@
     'category': 'Sales',
     'summary': 'Connect Odoo with major retailers (EDI), Shopify, and more for automated order, inventory, and fulfillment sync.',
     'author': 'Spring Systems',
-    'website': 'https://springsystems.com/supplier-solutions/spring-integration',
+    'website': 'https://springsystems.com/supplier-solutions/integrated-service/',
     'support': 'support@springsystems.com',
     'live_test_url' : 'https://springsystems.com/get-started/lets-get-you-set-up',
     'price': 59,
